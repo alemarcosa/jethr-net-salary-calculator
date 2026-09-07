@@ -2,6 +2,9 @@
 
 Calcolatore web che parte da una **RAL** e stima **netto annuale**, **netto mensile** e le **trattenute** (INPS + IRPEF + addizionali) per un caso standard.
 
+**Live demo:** https://alemarcosa.github.io/jethr-net-salary-calculator/  
+**Repo:** https://github.com/alemarcosa/jethr-net-salary-calculator
+
 **Profilo modellato:** impiegato a tempo indeterminato, residente a Milano, senza agevolazioni.
 
 > Stima indicativa per dimostrare comprensione del dominio. Non sostituisce un cedolino.
